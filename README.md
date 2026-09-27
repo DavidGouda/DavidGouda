@@ -14,7 +14,7 @@ I am an aspiring Data Analyst with hands-on experience in **MS Excel, SQL, Power
 
 ## 📊 Projects
 
-### MS Excel – Freshco Hypermarket
+### MS Excel – Loan Data
 Data analysis and reporting project using Excel.
 
 ### SQL – Airline Database
