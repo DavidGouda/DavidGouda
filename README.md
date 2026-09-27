@@ -12,6 +12,15 @@ I am an aspiring Data Analyst with hands-on experience in **MS Excel, SQL, Power
 - **Python** – Data analysis using Pandas and NumPy
 - **Data Analysis & Reporting**
 
+## 🎓 Certifications
+
+- **Data Analyst Certification + Generative AI** — Skillovilla, certified by NASSCOM
+
+## 💼 Organizations
+
+- **Tech Mahindra**
+- **CMS**
+
 ## 📊 Projects
 
 ### MS Excel – Loan Data
