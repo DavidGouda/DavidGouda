@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm David Gouda 👋
 
-<!--
-**DavidGouda/DavidGouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst with hands-on experience in **MS Excel, SQL, Power BI, and Python**. I enjoy working with data, creating meaningful reports and dashboards, and turning data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **MS Excel** – Data analysis, Pivot Tables, reporting and visualization
+- **SQL** – Data querying, filtering, joins and analysis
+- **Power BI** – Data transformation, data modeling and interactive dashboards
+- **Python** – Data analysis using Pandas and NumPy
+- **Data Analysis & Reporting**
+
+## 📊 Projects
+
+### MS Excel – Freshco Hypermarket
+Data analysis and reporting project using Excel.
+
+### SQL – Airline Database
+SQL-based data analysis using queries, joins and database operations.
+
+### Power BI – ShopNest Store Performance Analysis
+Interactive Power BI dashboard for analyzing sales and business performance.
+
+### Python – Python Fundamentals
+Python-based data analysis project covering fundamental programming and data manipulation concepts.
+
+## 🎯 Currently
+
+- Building my portfolio in Data Analytics
+- Strengthening my skills in Excel, SQL, Power BI and Python
+- Working on data analysis projects and dashboards
+- Looking for opportunities to begin my career as a Data Analyst
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/david-gouda/)
