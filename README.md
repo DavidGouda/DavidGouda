@@ -1,6 +1,6 @@
 # Hi, I'm David Gouda 👋
 
-### Aspiring Data Analyst | Excel | SQL | Power BI | Python
+### Aspiring Data Analyst | Excel, SQL, Power BI & Python | Data analysis, reporting and dashboards.
 
 I am an aspiring Data Analyst with hands-on experience in **MS Excel, SQL, Power BI, and Python**. I enjoy working with data, creating meaningful reports and dashboards, and turning data into actionable insights.
 
