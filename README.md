@@ -23,17 +23,17 @@ I am an aspiring Data Analyst with hands-on experience in **MS Excel, SQL, Power
 
 ## 📊 Projects
 
-### MS Excel – Loan Data
-Data analysis and reporting project using Excel.
+### [MS Excel – Loan Data Analysis](https://github.com/DavidGouda/MS-Excel)
+Data analysis and reporting using Excel, based on a loan application dataset.
 
-### SQL – Airline Database
-SQL-based data analysis using queries, joins and database operations.
+### [SQL – Airline Database](https://github.com/DavidGouda/SQL-)
+SQL-based airline database analysis using queries, joins and database operations.
 
-### Power BI – ShopNest Store Performance Analysis
-Interactive Power BI dashboard for analyzing sales and business performance.
+### [Power BI – ShopNest Store Performance Analysis](https://github.com/DavidGouda/Power-BI)
+Interactive dashboard project for analyzing sales and business performance.
 
-### Python – Python Fundamentals
-Python-based data analysis project covering fundamental programming and data manipulation concepts.
+### [Python – Employee Data Analysis](https://github.com/DavidGouda/Python)
+Python-based employee data analysis using Pandas and NumPy.
 
 ## 🎯 Currently
 
